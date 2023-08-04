@@ -14,6 +14,8 @@ Evidencias Capturas:
 //Funcionalidad base de datos//
 ![image](https://github.com/ErickVillarroel1722/Prueba2B2/assets/117743333/23bd6ff7-7614-4dd8-baa2-e16e78989e9c)
 //Codigo//
+![image](https://github.com/ErickVillarroel1722/Prueba2B2/assets/117743333/43bab95c-2fbf-4f35-a937-5afb536c88af)
+
 
 
 
